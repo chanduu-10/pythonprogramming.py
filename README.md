@@ -1,1 +1,1 @@
-# pythonprogramming.py
+A set of Python programs written in VS Code to practice and improve coding skills.
